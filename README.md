@@ -1,0 +1,2 @@
+# cli-everything
+This is a package that can be installed on Linux systems, that brings many packages in the open source space into one package, allowing for streamlining and the fixing of bugs all at once. It should allow for a user to stay within a terminal window or ttys for the entirety of their use, instead of having to switch between a GUI and a terminal. Ideally, it would include cli equivalents of the most used apps on a computer, with proper media support and large amounts of both consumption and production in line.
